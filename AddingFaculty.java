@@ -36,9 +36,9 @@ public class AddingFaculty {
 		});
 	}
 
-	/**
-	 * Create the application.
-	 */
+	
+	 // Create the application.
+	 
 	public AddingFaculty() {
 		initialize();
 	}
